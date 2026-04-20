@@ -140,6 +140,3 @@ Pull requests are welcome. The project is actively maintained and continuously i
 
 ---
 
-## 📄 License
-
-MIT License
